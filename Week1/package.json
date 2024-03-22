@@ -1,0 +1,23 @@
+{
+  "name": "week1",
+  "version": "1.0.0",
+  "description": "Create a Simple Server that sends the message, \"Hello World\" , using Nodejs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mokhutso-dev/Talent4Startups.git"
+  },
+  "author": "Mokhutso Manaswe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mokhutso-dev/Talent4Startups/issues"
+  },
+  "homepage": "https://github.com/mokhutso-dev/Talent4Startups#readme",
+  "dependencies": {
+    "express": "^4.19.1"
+  }
+}
